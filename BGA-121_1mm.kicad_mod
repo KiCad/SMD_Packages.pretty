@@ -1,6 +1,6 @@
-(module BGA121_1mm (layer F.Cu)
+(module BGA-121_1mm (layer F.Cu)
   (at 0 0)
-  (descr BGA121_1mm)
+  (descr BGA-121_1mm)
   (attr smd)
   (fp_text reference BGA121_1mm (at 0.635 -6.985) (layer F.SilkS)
     (effects (font (thickness 0.254)))
