@@ -1,4 +1,4 @@
-(module EMI_FILTER (layer F.Cu)
+(module EMI_Filter (layer F.Cu)
   (at 0 0)
   (descr "EMI Filter")
   (fp_text reference FI* (at -0.127 0.635) (layer F.SilkS)
