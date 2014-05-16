@@ -1,4 +1,4 @@
-(module Atmel_MLF-44 (layer F.Cu)
+(module MLF-44_Atmel (layer F.Cu)
   (at 0 0)
   (descr "44M1 MICRO LEAD FRAME PACKAGE (MLF)")
   (tags "44M1 MICRO LEAD FRAME PACKAGE (MLF)")

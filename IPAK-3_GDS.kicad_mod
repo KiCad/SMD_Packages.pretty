@@ -1,6 +1,6 @@
-(module IPAKGDS (layer F.Cu)
+(module IPAK-3_GDS (layer F.Cu)
   (at 0 0)
-  (fp_text reference IPAKGDS (at -0.127 2.286) (layer F.SilkS)
+  (fp_text reference IPAK-3_GDS (at -0.127 2.286) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )
   (fp_text value VAL** (at 0 -1.905) (layer F.SilkS)
