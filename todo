@@ -1,3 +1,7 @@
 1. Review all package names
 2. Figure out what the heck the connectors are
 3. Move everything into the correct libraries.
+
+- make PLCC-6
+- make LGA-10_ST
+- make QFP-144+EP1
