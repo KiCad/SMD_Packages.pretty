@@ -1,6 +1,6 @@
-(module QFN52+1EP_HandSoldering (layer F.Cu)
+(module QFN-52+1EP_HandSoldering (layer F.Cu)
   (attr smd)
-  (fp_text reference QFN52+1EP (at 3.81 4.572) (layer F.SilkS)
+  (fp_text reference QFN-52+1EP_HS (at 3.81 4.572) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (fp_text value VAL** (at 4.699 -3.81) (layer F.SilkS) hide

@@ -1,7 +1,9 @@
 1. Review all package names
-2. Figure out what the heck the connectors are
+2. Figure out what everything is
 3. Move everything into the correct libraries.
 
-- make PLCC-6
-- make LGA-10_ST
+- make PLCC-6 (standard lead numbering, consider modified lead numbering)
+- make LGA-10 (for STMicroelectronics)
 - make QFP-144+EP1
+- make different POT packages
+- make all the QFN packages metric and correct outer package dimensions
