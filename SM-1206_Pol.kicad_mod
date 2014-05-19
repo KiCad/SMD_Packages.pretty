@@ -1,7 +1,7 @@
-(module SM1206POL (layer F.Cu)
+(module SM-1206_Pol (layer F.Cu)
   (at 0 0)
   (attr smd)
-  (fp_text reference SMD1206POL (at 0 0) (layer F.SilkS)
+  (fp_text reference SM-1206_Pol (at 0 0) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
