@@ -1,5 +1,5 @@
-(module QFN-24+1EP (layer F.Cu)
-  (fp_text reference QFN-24+1EP (at 0 -3.81) (layer F.SilkS)
+(module QFN-24-1EP (layer F.Cu)
+  (fp_text reference QFN-24-1EP (at 0 -3.81) (layer F.SilkS)
     (effects (font (size 1.00076 1.00076) (thickness 0.3048)))
   )
   (fp_text value VAL** (at 0 3.81) (layer F.SilkS)

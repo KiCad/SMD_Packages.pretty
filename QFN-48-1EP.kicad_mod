@@ -1,6 +1,6 @@
-(module QFN48 (layer F.Cu)
+(module QFN-48-1EP (layer F.Cu)
   (attr smd)
-  (fp_text reference QFN-48+1EP (at -0.01016 1.29032) (layer F.SilkS)
+  (fp_text reference QFN-48-1EP (at -0.01016 1.29032) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (fp_text value VAL** (at 0.0508 -0.889) (layer F.SilkS)
