@@ -1,7 +1,7 @@
-(module SM-0201_r (layer F.Cu)
+(module SMD-0201_r (layer F.Cu)
   (at 0 0)
   (attr smd)
-  (fp_text reference SM-0201_r (at 0 0) (layer F.SilkS)
+  (fp_text reference SMD-0201_r (at 0 0) (layer F.SilkS)
     (effects (font (size 0.2 0.2) (thickness 0.05)))
   )
   (fp_text value Val** (at 0 0) (layer F.SilkS) hide

@@ -1,10 +1,10 @@
-(module SM1812E (layer F.Cu)
+(module SMD-1812_c (layer F.Cu)
   (at 0 0)
   (attr smd)
-  (fp_text reference C13 (at 0 0 90) (layer F.SilkS)
+  (fp_text reference SMD-1812_c (at 0 0 90) (layer F.SilkS)
     (effects (font (size 0.889 0.889) (thickness 0.127)))
   )
-  (fp_text value 1uF (at 0 0 90) (layer F.SilkS) hide
+  (fp_text value VAL** (at 0 0 90) (layer F.SilkS) hide
     (effects (font (size 0.889 0.889) (thickness 0.127)))
   )
   (fp_circle (center -3.429 1.778) (end -3.048 1.778) (layer F.SilkS) (width 0.127))
