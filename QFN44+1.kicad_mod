@@ -1,4 +1,7 @@
 (module QFN44+1 (layer F.Cu)
+  (descr "7x7mm QFN 44+1 pads")
+  (tags "QFN VQFN")
+  (attr smd)
   (fp_text reference QFN44+1 (at 0 -6) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
