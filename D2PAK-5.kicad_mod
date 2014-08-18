@@ -1,5 +1,5 @@
 (module D2PAK-5 (layer F.Cu) (tedit 53F16B4E)
-  (descr "D2PAK-5, TO-263-5")
+  (descr "5-Lead D2PAK aka TO-263-5")
   (tags "D2PAK-5, TO-263-5")
   (fp_text reference D2PAK-5 (at 0 -1.905) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
