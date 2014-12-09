@@ -1,10 +1,10 @@
-(module TQFP44 (layer F.Cu) (tedit 53FE9278)
+(module TQFP-44 (layer F.Cu) (tedit 53FE9278)
   (attr smd)
-  (fp_text reference TQFP44 (at 0 -1.905) (layer F.SilkS)
-    (effects (font (size 1.524 1.016) (thickness 0.2032)))
+  (fp_text reference TQFP-44 (at 0 -1.905) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 1.905) (layer F.SilkS)
-    (effects (font (size 1.524 1.016) (thickness 0.2032)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 5.0038 -5.0038) (end 5.0038 5.0038) (layer F.SilkS) (width 0.15))
   (fp_line (start 5.0038 5.0038) (end -5.0038 5.0038) (layer F.SilkS) (width 0.15))
@@ -56,7 +56,7 @@
   (pad 32 smd rect (at 5.715 -3.2004) (size 1.524 0.4064) (layers F.Cu F.Paste F.Mask))
   (pad 33 smd rect (at 5.715 -4.0005) (size 1.524 0.4064) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -5.715 -4.0005) (size 1.524 0.4064) (layers F.Cu F.Paste F.Mask))
-  (model smd/tqfp44.wrl
+  (model SMD_Packages/TQFP-44.wrl
     (at (xyz 0 0 0))
     (scale (xyz 4 4 4))
     (rotate (xyz 0 0 0))

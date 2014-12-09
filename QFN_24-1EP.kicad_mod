@@ -1,9 +1,9 @@
-(module QFN-24-1EP (layer F.Cu)
-  (fp_text reference QFN-24-1EP (at 0 -3.81) (layer F.SilkS)
-    (effects (font (size 1.00076 1.00076) (thickness 0.3048)))
+(module QFN_24-1EP (layer F.Cu)
+  (fp_text reference QFN_24-1EP (at 0 -3.81) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 3.81) (layer F.SilkS)
-    (effects (font (size 1.00076 1.00076) (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.99136 -2.4892) (end 2.4892 -2.4892) (layer F.SilkS) (width 0.15))
   (fp_line (start -2.4892 -1.99136) (end -2.4892 2.4892) (layer F.SilkS) (width 0.15))
@@ -43,7 +43,7 @@
   (pad 22 smd oval (at -0.24892 -1.99898 270) (size 0.8001 0.24892) (layers F.Cu F.Paste F.Mask))
   (pad 23 smd oval (at -0.7493 -1.99898 270) (size 0.8001 0.24892) (layers F.Cu F.Paste F.Mask))
   (pad 24 smd oval (at -1.24968 -1.99898 270) (size 0.8001 0.24892) (layers F.Cu F.Paste F.Mask))
-  (model smd/qfn24.wrl
+  (model SMD_Packages/QFN_24-1EP.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

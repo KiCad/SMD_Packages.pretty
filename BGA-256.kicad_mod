@@ -2,10 +2,10 @@
   (at 0 0)
   (attr smd)
   (fp_text reference BGA-256 (at 3.81 -9.525) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.1524)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Val** (at -5.08 -9.525) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.1524)))
+  (fp_text value VAL** (at -5.08 -9.525) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8.636 -7.493) (end -7.493 -8.636) (layer F.SilkS) (width 0.15))
   (fp_line (start -8.636 -7.874) (end -7.874 -8.636) (layer F.SilkS) (width 0.15))
@@ -270,7 +270,7 @@
   (pad K16 smd circle (at 7.50062 1.50114) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
   (pad J16 smd circle (at 7.50062 0.50038) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
   (pad H16 smd circle (at 7.50062 -0.50038) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
-  (model smd/generic_bga.wrl
+  (model SMD_Packages/BGA-256.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.8 0.8 0.5))
     (rotate (xyz 0 0 0))

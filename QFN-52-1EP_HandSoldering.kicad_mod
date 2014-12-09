@@ -1,10 +1,10 @@
 (module QFN-52-1EP_HandSoldering (layer F.Cu)
   (attr smd)
-  (fp_text reference QFN-52-1EP_HS (at 3.81 4.572) (layer F.SilkS)
-    (effects (font (size 0.762 0.762) (thickness 0.127)))
+  (fp_text reference QFN-52-1EP_HandSoldering (at 3.81 4.572) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 4.699 -3.81) (layer F.SilkS) hide
-    (effects (font (size 0.762 0.635) (thickness 0.1524)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.875 -4.01) (end -3.51 -3.502) (layer Dwgs.User) (width 0.127))
   (fp_line (start -2.921 -4) (end 3.5 -4) (layer Dwgs.User) (width 0.127))
