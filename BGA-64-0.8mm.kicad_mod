@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "BGA-64 pitch 0.8mm")
   (attr smd)
-  (fp_text reference BGA-64-0.8mm (at 0 -1.27) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -1.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 1.27) (layer F.SilkS)
+  (fp_text value BGA-64-0.8mm (at 0 1.27) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -4.572 -3.556) (end -3.556 -4.572) (layer F.SilkS) (width 0.15))
@@ -79,7 +79,7 @@
   (pad J10 smd circle (at 3.59918 2.79908) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
   (pad B7 smd circle (at 1.19888 -2.79908) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
   (pad B8 smd circle (at 1.99898 -2.79908) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
-  (model SMD_Packages/BGA-64-0.8mm.wrl
+  (model SMD_Packages.3dshapes/BGA-64-0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.44 0.44 0.4))
     (rotate (xyz 0 0 0))

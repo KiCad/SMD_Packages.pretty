@@ -1,9 +1,9 @@
 (module IPAK-3_GDS (layer F.Cu)
   (at 0 0)
-  (fp_text reference IPAK-3_GDS (at -0.127 2.286) (layer F.SilkS)
+  (fp_text reference REF** (at -0.127 2.286) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -1.905) (layer F.SilkS)
+  (fp_text value IPAK-3_GDS (at 0 -1.905) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.302 1.016) (end 3.302 1.016) (layer F.SilkS) (width 0.15))
@@ -15,7 +15,7 @@
   (pad D thru_hole circle (at 0 0) (size 1.651 1.651) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad S thru_hole circle (at -2.286 0) (size 1.651 1.651) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad G thru_hole circle (at 2.286 0) (size 1.651 1.651) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model SMD_Packages/IPAK-3_GDS.wrl
+  (model SMD_Packages.3dshapes/IPAK-3_GDS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

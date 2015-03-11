@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "BGA-48 - pitch 0.8 mm")
   (attr smd)
-  (fp_text reference BGA-48 (at 3.302 0 90) (layer F.SilkS)
+  (fp_text reference REF** (at 3.302 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -3.175 0 90) (layer F.SilkS)
+  (fp_text value BGA-48 (at -3.175 0 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center -3.048 -3.556) (end -3.302 -4.064) (layer F.SilkS) (width 0.15))
@@ -62,7 +62,7 @@
   (pad B4 smd circle (at 0.39878 -1.99898) (size 0.39878 0.39878) (layers F.Cu F.Paste F.Mask))
   (pad B3 smd circle (at -0.39878 -1.99898) (size 0.39878 0.39878) (layers F.Cu F.Paste F.Mask))
   (pad B2 smd circle (at -1.19888 -1.99898) (size 0.39878 0.39878) (layers F.Cu F.Paste F.Mask))
-  (model SMD_Packages/BGA-48.wrl
+  (model SMD_Packages.3dshapes/BGA-48.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.38 0.44 0.3))
     (rotate (xyz 0 0 0))

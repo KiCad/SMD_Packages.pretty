@@ -1,10 +1,10 @@
 (module SSOP-14 (layer F.Cu)
   (at 0 0)
   (attr smd)
-  (fp_text reference SSOP-14 (at 0 -0.762) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -0.762) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 0.508) (layer F.SilkS)
+  (fp_text value SSOP-14 (at 0 0.508) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.413 -1.778) (end 2.413 -1.778) (layer F.SilkS) (width 0.15))
@@ -26,7 +26,7 @@
   (pad 12 smd rect (at -0.6477 -2.794) (size 0.4318 1.397) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at -1.2954 -2.794) (size 0.4318 1.397) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at -1.9431 -2.794) (size 0.4318 1.397) (layers F.Cu F.Paste F.Mask))
-  (model SMD_Packages/SSOP-14.wrl
+  (model SMD_Packages.3dshapes/SSOP-14.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.25 0.35 0.25))
     (rotate (xyz 0 0 0))

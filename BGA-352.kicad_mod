@@ -1,10 +1,10 @@
 (module BGA-352 (layer F.Cu)
   (at 0 0)
   (attr smd)
-  (fp_text reference BGA-352 (at 0 -2.54) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 2.54) (layer F.SilkS)
+  (fp_text value BGA-352 (at 0 2.54) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -17.78 -15.875) (end -15.875 -17.78) (layer F.SilkS) (width 0.15))
@@ -364,7 +364,7 @@
   (pad K26 smd circle (at 15.875 -4.445) (size 0.762 0.762) (layers F.Cu F.Paste F.Mask))
   (pad J26 smd circle (at 15.875 -5.715) (size 0.762 0.762) (layers F.Cu F.Paste F.Mask))
   (pad H26 smd circle (at 15.875 -6.985) (size 0.762 0.762) (layers F.Cu F.Paste F.Mask))
-  (model SMD_Packages/BGA-352.wrl
+  (model SMD_Packages.3dshapes/BGA-352.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1.7 1.7 0.8))
     (rotate (xyz 0 0 0))

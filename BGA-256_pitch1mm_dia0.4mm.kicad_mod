@@ -1,9 +1,9 @@
 (module BGA-256_pitch1mm_dia0.4mm (layer F.Cu) (tedit 53D7EA7F)
   (attr smd)
-  (fp_text reference BGA-256_pitch1mm_dia0.4mm (at 3.81 -9.525) (layer F.SilkS)
+  (fp_text reference REF** (at 3.81 -9.525) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -5.08 -9.525) (layer F.SilkS)
+  (fp_text value BGA-256_pitch1mm_dia0.4mm (at -5.08 -9.525) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8.636 -7.493) (end -7.493 -8.636) (layer F.SilkS) (width 0.15))
@@ -269,7 +269,7 @@
   (pad K16 smd circle (at 7.50062 1.50114) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad J16 smd circle (at 7.50062 0.50038) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad H16 smd circle (at 7.50062 -0.50038) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
-  (model SMD_Packages/BGA-256_pitch1mm_dia0.4mm.wrl
+  (model SMD_Packages.3dshapes/BGA-256_pitch1mm_dia0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.8 0.8 0.5))
     (rotate (xyz 0 0 0))

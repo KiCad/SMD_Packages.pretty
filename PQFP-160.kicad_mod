@@ -3,10 +3,10 @@
   (descr "Module CMS Pqfp 160 pins")
   (tags "CMS PQFP")
   (attr smd)
-  (fp_text reference PQFP-160 (at 0 -2.54) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 2.54) (layer F.SilkS)
+  (fp_text value PQFP-160 (at 0 2.54) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user 1 (at 13.589 -15.494) (layer F.SilkS)
@@ -178,7 +178,7 @@
   (pad 118 smd rect (at 11.4046 15.6972) (size 0.381 2.54) (layers F.Cu F.Paste F.Mask))
   (pad 119 smd rect (at 12.065 15.6972) (size 0.381 2.54) (layers F.Cu F.Paste F.Mask))
   (pad 120 smd rect (at 12.7 15.6972) (size 0.381 2.54) (layers F.Cu F.Paste F.Mask))
-  (model SMD_Packages/PQFP-160.wrl
+  (model SMD_Packages.3dshapes/PQFP-160.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.512 0.512 0.5))
     (rotate (xyz 0 0 0))
