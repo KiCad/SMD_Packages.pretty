@@ -1,5 +1,5 @@
 (module SOT-363 (layer F.Cu) (tedit 55AE44D4)
-  (descr SOT353)
+  (descr SOT363)
   (attr smd)
   (fp_text reference REF** (at 0.09906 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
