@@ -2,6 +2,7 @@
   (at 0 0)
   (descr "module cms PQFP 112 pins")
   (tags "PQFP CMS")
+  (attr smd)
   (fp_text reference REF** (at 0 -3.80746) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

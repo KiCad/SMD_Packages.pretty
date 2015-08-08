@@ -1,5 +1,8 @@
 (module Ceramic_Filter (layer F.Cu)
   (at 0 0)
+  (descr "Ceramic filter")
+  (tags "ceramic filter")
+  (attr smd)
   (fp_text reference REF** (at 2.413 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
