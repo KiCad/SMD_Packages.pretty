@@ -271,7 +271,7 @@
   (pad H16 smd circle (at 7.50062 -0.50038) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (model SMD_Packages.3dshapes/BGA-256_pitch1mm_dia0.4mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.8 0.8 0.5))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

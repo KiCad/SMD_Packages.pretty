@@ -1170,4 +1170,9 @@
   (pad AP33 smd circle (at 15.49908 16.49984) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
   (pad AP34 smd circle (at 16.49984 16.49984) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd circle (at -16.49984 -16.49984) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
+  (model SMD_Packages.3dshapes\BGA-1156-1mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

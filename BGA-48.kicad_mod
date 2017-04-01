@@ -64,7 +64,7 @@
   (pad B2 smd circle (at -1.19888 -1.99898) (size 0.39878 0.39878) (layers F.Cu F.Paste F.Mask))
   (model SMD_Packages.3dshapes/BGA-48.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.38 0.44 0.3))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
