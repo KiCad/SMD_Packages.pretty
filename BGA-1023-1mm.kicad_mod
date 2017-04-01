@@ -1036,4 +1036,9 @@
   (pad AM30 smd circle (at 13.49756 15.49908) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
   (pad AM31 smd circle (at 14.49832 15.49908) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
   (pad AM32 smd circle (at 15.49908 15.49908) (size 0.50038 0.50038) (layers F.Cu F.Paste F.Mask))
+  (model Housings_BGA.3dshapes\BGA-1023-1mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
